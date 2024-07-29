@@ -1,6 +1,6 @@
-The `<ol>` element creates an ordered list. Each `<li>` list item inside an ordered list will be numbered.
+Het `<ol>` element maakt een geordende lijst aan. Elke `<li>` lijst item binnen een geordende lijst zal genummerd worden.
 
-![A list numbered from 1 to 3 with the text Lorem Ipsum Dolor.](images/ordered-list.png)
+![Een lijst genummerd van 1 tot en met 3 met de tekst Lorem Ipsum Dolor.](images/ordered-list.png)
 
 ## --- code ---
 
