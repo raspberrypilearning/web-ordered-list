@@ -1,0 +1,11 @@
+---
+title: Ajouter une liste ordonnée avec des éléments numérotés
+hero_image: images/banner.png
+description: Ajoute une liste ordonnée avec des éléments numérotés.
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - title: Ajouter une liste ordonnée
+
