@@ -1,6 +1,6 @@
-Het `<ol>` element maakt een geordende lijst aan. Each `<li>` list item inside an ordered list is numbered.
+Het `<ol>` element maakt een geordende lijst aan. Elk `<li>` lijst item binnen een geordende lijst is genummerd.
 
-![A list numbered from one to three. Next to number one is the word 'Lorem', next to number two is the word 'Ipsum', and next to number three is the word 'Dolor'.](images/ordered-list.png)
+![Een lijst genummerd van één tot drie. Naast nummer één staat het woord 'Lorem', naast nummer twee staat het woord 'Ipsum', en naast nummer drie staat het woord 'Dolor'.](images/ordered-list.png)
 
 ## --- code ---
 
