@@ -1,6 +1,6 @@
-L'élément `<ol>` crée une liste ordonnée. Each `<li>` list item inside an ordered list is numbered.
+L'élément `<ol>` crée une liste ordonnée. Chaque élément de liste `<li>` à l'intérieur d'une liste ordonnée est numéroté.
 
-![A list numbered from one to three. Next to number one is the word 'Lorem', next to number two is the word 'Ipsum', and next to number three is the word 'Dolor'.](images/ordered-list.png)
+![Une liste numérotée de un à trois. À côté du numéro un se trouve le mot "Lorem", à côté du numéro deuxième, le mot "Ipsum", et à côté du numéro trois est le mot "Dolor".](images/ordered-list.png)
 
 ## --- code ---
 
